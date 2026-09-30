@@ -5,7 +5,7 @@
 
   <!-- Badges -->
   <img src="https://img.shields.io/badge/Language-C-blue.svg?logo=c&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/Topics-12+-success.svg" alt="Topics">
+  <img src="https://img.shields.io/badge/Files-334_C_Files-success.svg" alt="Files">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </div>
@@ -23,20 +23,20 @@ C is considered the mother of all modern programming languages. Whether you want
 
 Explore the repository by navigating through the neatly structured topics. Every folder contains source code and specific examples to learn from.
 
-| 📁 Topic | 📝 Description |
-| :--- | :--- |
-| **[🌱 Basic](./Basic)** | Understand the structure of a C program, `#include`, `printf()`, `scanf()`, variables, and primitive data types. |
-| **[🔀 Conditional Statement](./Conditional%20Statement)** | Learn to make decisions using `if`, `else if`, `else`, nested conditions, and the `switch-case` statement. |
-| **[🔁 Loops](./Loops)** | Execute code repeatedly using `for`, `while`, and `do-while` loops. |
-| **[💠 Pattern Printing](./Pattern%20Printing)** | Dive into nested loops through classic star (`*`) patterns, number pyramids, and diamond shapes. |
-| **[📚 Array](./Array)** | Learn about 1D data structures to store multiple items of the same type in contiguous memory. |
-| **[🧮 2DArray](./2DArray)** | Matrices and tabular data. Essential for advanced matrix mathematics and dynamic programming setups. |
-| **[🔡 Strings](./Strings)** | In C, strings are character arrays. Explore `string.h` library functions and custom string manipulations. |
-| **[🎯 Function And Pointer](./Function%20And%20Pointer)** | The heart of C! Learn modularity with functions, and direct memory access using pointers. Includes call by value vs. call by reference. |
-| **[🔄 Recursion](./Recursion)** | Functions that call themselves! A beautiful concept for solving problems like factorials, Fibonacci series, and Tower of Hanoi. |
-| **[🧱 Structures](./Structures)** | Create your own custom data types using `struct`, grouping different data types together. |
-| **[📊 Sorting](./Sorting)** | Classic sorting algorithms implemented from scratch: Bubble Sort, Selection Sort, Insertion Sort, etc. |
-| **[📂 FileHandling](./FileHandling)** | Read from and write to text and binary files using file pointers (`fopen`, `fprintf`, `fread`, etc.). |
+| 📁 Topic | 📝 Description | 📊 File Count |
+| :--- | :--- | :--- |
+| **[🌱 Basic](./Basic)** | Understand the structure of a C program, `#include`, `printf()`, `scanf()`, variables, and primitive data types. | 34 files |
+| **[🔀 Conditional Statement](./Conditional%20Statement)** | Learn to make decisions using `if`, `else if`, `else`, nested conditions, and the `switch-case` statement. | 36 files |
+| **[🔁 Loops](./Loops)** | Execute code repeatedly using `for`, `while`, and `do-while` loops. | 57 files |
+| **[💠 Pattern Printing](./Pattern%20Printing)** | Dive into nested loops through classic star (`*`) patterns, number pyramids, and diamond shapes. | 39 files |
+| **[📚 Array](./Array)** | Learn about 1D data structures to store multiple items of the same type in contiguous memory. | 29 files |
+| **[🧮 2DArray](./2DArray)** | Matrices and tabular data. Essential for advanced matrix mathematics and dynamic programming setups. | 30 files |
+| **[🔡 Strings](./Strings)** | In C, strings are character arrays. Explore `string.h` library functions and custom string manipulations. | 15 files |
+| **[🎯 Function And Pointer](./Function%20And%20Pointer)** | The heart of C! Learn modularity with functions, and direct memory access using pointers. Includes call by value vs. call by reference. | 26 files |
+| **[🔄 Recursion](./Recursion)** | Functions that call themselves! A beautiful concept for solving problems like factorials, Fibonacci series, and Tower of Hanoi. | 19 files |
+| **[🧱 Structures](./Structures)** | Create your own custom data types using `struct`, grouping different data types together. | 22 files |
+| **[📊 Sorting](./Sorting)** | Classic sorting algorithms implemented from scratch: Bubble Sort, Selection Sort, Insertion Sort, etc. | 14 files |
+| **[📂 FileHandling](./FileHandling)** | Read from and write to text and binary files using file pointers (`fopen`, `fprintf`, `fread`, etc.). | 13 files |
 
 ---
 
